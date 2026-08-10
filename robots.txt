@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jtkdi7.shiokambing67id.cfd/sitemap.xml
